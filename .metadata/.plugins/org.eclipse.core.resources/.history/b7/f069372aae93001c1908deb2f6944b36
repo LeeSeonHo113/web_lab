@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<ul>
+		<li><a href="/user/login.html">로그인 페이지</a></li>
+		<li><a href="/user/join.html">회원가입 페이지</a></li>
+		<li><a href="/user/userInfo.html">회원정보 페이지</a></li>
+		<li><a href="/post/list.html">글 목록 페이지</a></li>
+	</ul>
+<h1>회원정보 페이지입니다. - 인증 필요</h1>
+<h3>이름 : 이선호 전화번호 :  01048197443</h3>
+<hr/>
+</body>
+</html>
